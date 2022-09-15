@@ -2,6 +2,6 @@
 
 This repo contains most of the project files for the Data Analysis class project for Austin Animal Shelter dataset analysis and presentation with article.
 
-The LinkedIn article can be found [here](https://www.test.com/).
+The LinkedIn article can be found [here](https://www.linkedin.com/pulse/why-buy-pet-when-you-can-adopt-deautaun-ross/).
 
 The Tableau Viz can be found [here](https://public.tableau.com/views/AnimalShelterVis/OutcomebyDoB?:language=en-US&:display_count=n&:origin=viz_share_link).
